@@ -1,0 +1,34 @@
+[
+  {
+    "repo": "octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stars": 2180,
+    "starredAt": "2026-08-28",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 170000,
+    "starredAt": "2026-08-19",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repo": "github/docs",
+    "description": "The open-source repo for docs.github.com.",
+    "language": "JavaScript",
+    "stars": 16000,
+    "starredAt": "2026-08-07",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "repo": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "language": "JavaScript",
+    "stars": 135000,
+    "starredAt": "2026-07-24",
+    "url": "https://github.com/vercel/next.js"
+  }
+]
